@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FunkyScrollPicView_Example' do
+  pod 'FunkyScrollPicView', :path => '../'
+
+  target 'FunkyScrollPicView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
