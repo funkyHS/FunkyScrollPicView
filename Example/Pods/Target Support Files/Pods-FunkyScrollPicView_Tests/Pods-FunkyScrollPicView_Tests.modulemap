@@ -1,0 +1,6 @@
+framework module Pods_FunkyScrollPicView_Tests {
+  umbrella header "Pods-FunkyScrollPicView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

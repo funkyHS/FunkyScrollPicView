@@ -1,0 +1,16 @@
+PODS:
+  - FunkyScrollPicView (0.1.0)
+
+DEPENDENCIES:
+  - FunkyScrollPicView (from `../`)
+
+EXTERNAL SOURCES:
+  FunkyScrollPicView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FunkyScrollPicView: eaa72bf86828a4723c5774eab998cbb2192ccb2a
+
+PODFILE CHECKSUM: 14e35c85efbb0486e3dfa755c42dc902472eefb9
+
+COCOAPODS: 1.2.1
